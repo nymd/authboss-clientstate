@@ -2,7 +2,6 @@ package abclientstate
 
 import (
 	"net/http"
-	"strings"
 	"time"
 
 	"github.com/gorilla/securecookie"
